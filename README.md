@@ -1,4 +1,13 @@
-### Hi there 👋
+<h3 align="center">¡Hola 👋! Me llaman Sole</h3>
+<p align="center"> Y te doy la bienvenida a mi repositorio 👇</p>
+<br>
+
+- 🔭 Actualmente estoy trabajando en una web app para una dupla de muralistas cordobeses, utilizando Angular con Sanity.
+- 🌱 También estoy aprendiendo inglés y continúo profundizando en Java.
+- 👯 Me gustaría colaborar en proyectos que busquen tener un impacto positivo en la sociedad.
+- 💬 Podés preguntarme lo que sea sobre música sudamericana de raíces afro.
+- 📫 Me encontrás en: soledadsasia@gmail.com
+- ⚡ Dato curioso: pasé años viajando en bicicleta por Sudamérica... y lo volvería a hacer!
 
 <!--
 **SoleSasia/SoleSasia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
