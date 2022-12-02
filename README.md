@@ -1,12 +1,12 @@
-<h3 align="center">¡Hola 👋! Me llaman Sole</h3>
-<p align="center"> Y te doy la bienvenida a mi repositorio 👇</p>
+<h1 align="center">¡Hola colega dev 👋! Aqui Sole</h1>
+<p align="center"> Te doy la bienvenida a mi reciente repositorio 👇</p>
 <br>
 
-- 🔭 Actualmente estoy trabajando en una web app para una dupla de muralistas cordobeses, utilizando Angular con Sanity.
-- 🌱 También estoy aprendiendo inglés y continúo profundizando en Java.
+- 💻 Actualmente estoy trabajando en la web app de [Telúrbicos](https://telurbicos.ar), utilizando [Angular](https://angular.io) como framework principal y [Sanity](https://sanity.io) como gestor de contenidos.
+- 🌱 También estoy aprendiendo inglés y continúo profundizando mis conocimientos en Java.
 - 👯 Me gustaría colaborar en proyectos que busquen tener un impacto positivo en la sociedad.
-- 💬 Podés preguntarme lo que sea sobre música sudamericana de raíces afro.
-- 📫 Me encontrás en: soledadsasia@gmail.com
+- 💬 Podés preguntarme lo que sea sobre música sudamericana de raíces afro, percusión o bicicletas.
+- 📫 Podés escribirme a soledadsasia@gmail.com
 - ⚡ Dato curioso: pasé años viajando en bicicleta por Sudamérica... y lo volvería a hacer!
 
 <!--
