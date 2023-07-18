@@ -1,14 +1,25 @@
-<h1 align="center">¡Hola colega dev 👋! Aqui Sole</h1>
-<p align="center"> Te doy la bienvenida a mi reciente repositorio 👇</p>
+<h1 align="center">¡Hola! 👋</h1>
+<p align="center"> Te doy la bienvenida a mi repositorio y te cuento un poco sobre mi 👇</p>
 <br>
 
-- 💻 Actualmente estoy trabajando en la web app de [Telúrbicos](https://telurbicos.ar), utilizando [Angular](https://angular.io) como framework principal y [Sanity](https://sanity.io) como gestor de contenidos.
-- 🌱 También estoy aprendiendo inglés y continúo profundizando mis conocimientos en Java.
-- 👯 Me gustaría colaborar en proyectos que busquen tener un impacto positivo en la sociedad.
-- 💬 Podés preguntarme lo que sea sobre música sudamericana de raíces afro, percusión o bicicletas.
-- 📫 Podés escribirme a soledadsasia@gmail.com
-- ⚡ Dato curioso: pasé años viajando en bicicleta por Sudamérica... y lo volvería a hacer!
+- 💻 Actualmente trabajo como Desarrolladora Java Backend en [Flex Tech](https://flextech.com.ar).
+  
+- 👀 Estoy especialmente interesada en [Quarkus](https://quarkus.io), y en profundizar mis conocimientos en Java.
 
+<h2>En mis ratos libres:</h2>
+
+- 😄 Juego y paso tiempo con mis sobrinos (mucho tiempo! 💞️)
+  
+- 🛠️ Trabajo en la web app de [Telúrbicos](https://telurbicos.ar), utilizando [Angular](https://angular.io) como framework principal y [Sanity](https://sanity.io) como gestor de contenidos.
+  
+- 👯 Contribuyo con [La Cuentoneta](https://www.cuentoneta.ar), un proyecto de código abierto que busca generar un espacio comunitario para difundir escritos en literatura breve.
+  
+- 💬 Intento aprender inglés, mientras mantengo mi portugués.
+  
+- 🎙️️ Toco piano, pandeiro y canto.
+
+<h2>Hablemos:</h2>
+- 📫 Podés escribirme a soledadsasia@gmail.com y preguntarme lo que sea sobre IT, música sudamericana de raíces afro, percusión o bicicletas.
 <!--
 **SoleSasia/SoleSasia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
